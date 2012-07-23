@@ -11,7 +11,7 @@ This is a java implementation of Akismet comment spam checking api. Signup for y
 
 1. First clone this repository to a directory of you choice
 
-	$ git clone git://github.com/mikakoivisto/akismet-java
+	$ git clone git://github.com/mikakoivisto/akismet-java.git
 
 2. Install to your local maven repository
 
