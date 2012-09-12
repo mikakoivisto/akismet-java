@@ -22,6 +22,10 @@ package fi.javaguru.akismet;
  */
 public class AkismetComment {
 
+	public static final String TYPE_COMMENT = "comment";
+	public static final String TYPE_TRACKBACK = "trackback";
+	public static final String TYPE_PINGBACK = "pingback";
+
 	public String getAuthor() {
 		return _author;
 	}
